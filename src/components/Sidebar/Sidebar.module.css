@@ -1,0 +1,18 @@
+.sidebar{
+    /* display: flex;
+    
+    align-items: center;
+    flex-direction: column; */
+    text-align: center;
+    padding: 3rem 2rem 3.5rem 2rem;
+    background: #222831;
+    color: #fff;
+    height: 100vh;
+}
+
+.logo{
+    font-size: 3rem;
+}
+
+
+

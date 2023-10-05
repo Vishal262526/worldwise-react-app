@@ -1,0 +1,32 @@
+.container{
+    height: 100vh;
+    background: linear-gradient(
+        rgba(0,0,0,0.7),
+        rgba(0,0,0,0.7)
+
+    ),
+     url("background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    color: #fff;
+    padding: 1rem 23%;
+}
+
+.container h1{
+    font-size: 2.6rem;
+    margin-bottom: 1rem;
+}
+.container h2{
+    color: #909090;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+}
+
+

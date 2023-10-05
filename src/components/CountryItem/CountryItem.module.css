@@ -1,0 +1,18 @@
+/* --background-dark-color: #222831; */
+/* --background-light-color: #393E46; */
+.countryItem{
+    padding: .6rem 1rem;
+    background: #393E46;
+    margin-bottom: 1rem;
+    color: #Fff;
+    border-radius: 8px;
+    text-align: start;
+    width: 200px;
+    cursor: pointer;
+    border-left: 5px solid green;
+}
+
+.countryItem span{
+    margin-right: 0.5rem;
+}
+

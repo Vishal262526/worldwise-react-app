@@ -1,0 +1,24 @@
+/*  --background-dark-color: #222831;
+    --background-light-color: #393E46; */
+
+.appHeader ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    /* margin-top: 1rem; */
+    margin: 2rem 0;
+}
+
+.appHeader a{
+    background-color: #393E46;
+    padding: .5rem 1rem;
+    /* font-size: 1.1rem; */
+    color: #fff;
+    transition: all 0.3s ease;
+}
+
+.appHeader a:global(.active){
+    background: #2a2e34;
+    font-weight: bold;
+}

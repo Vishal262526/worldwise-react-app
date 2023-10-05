@@ -1,0 +1,44 @@
+{
+  "cities": [
+    {
+      "id": "1",
+      "city_name": "Meerut",
+      "country_name": "India",
+      "emoji":"⛳",
+      "position": {
+        "lat": "28.984644",
+        "long": "77.705956"
+      }
+    },
+    {
+      "id": "2",
+      "city_name": "Mumbai",
+      "country_name": "India",
+      "emoji":"⛳",
+      "position": {
+        "lat": "28.984644",
+        "long": "77.705956"
+      }
+    },
+    {
+      "id": "3",
+      "city_name": "Delhi",
+      "country_name": "India",
+      "emoji":"⛳",
+      "position": {
+        "lat": "28.984644",
+        "long": "77.705956"
+      }
+    },
+    {
+      "id": "4",
+      "city_name": "Banglore",
+      "country_name": "India",
+      "emoji":"⛳",
+      "position": {
+        "lat": "28.984644",
+        "long": "77.705956"
+      }
+    }
+  ]
+}
