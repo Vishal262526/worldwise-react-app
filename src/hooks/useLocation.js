@@ -12,6 +12,7 @@ export const useGeoLocation = (defaultPosition = null) => {
 
     setIsLoading(true);
     navigator.geolocation.getCurrentPosition((pos) => {
+   
         setPosition({
             lat:pos.coords.latitude,
             long: pos.coords.longitude,

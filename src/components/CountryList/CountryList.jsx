@@ -13,6 +13,7 @@ const CountryList = () => {
       ];
     } else {
       return arr;
+      // return arr;
     }
   }, []);
 

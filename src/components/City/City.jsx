@@ -9,7 +9,6 @@ const City = () => {
 
   const {city_name} = currentCity;
   
-  
   useEffect(() => {
     getCurrentCity(id);
   

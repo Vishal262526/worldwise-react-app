@@ -1,0 +1,51 @@
+.cityForm{
+    padding: 2rem;
+    border-radius: 12px;
+    /* margin-top: 2rem; */
+    background: #393E46;
+    /* 393E46 */
+}
+
+.cityForm label{
+    text-align: start;
+    display: block;
+   
+}
+
+
+
+.cityForm input{
+    width: 100% ;
+    padding: .8rem 1rem;
+    margin-top: .5rem;
+    border: none;
+    margin-bottom: 1.2rem;
+    outline: none;
+    border-radius: 12px;
+}
+
+.cityForm textarea{
+    width: 100%;
+    padding: .8rem 1rem;
+    margin-top: .5rem;
+    border: none;
+    margin-bottom: 1.2rem;
+    outline: none;
+    border-radius: 12px;
+}
+
+.flag{
+    position: relative;
+}
+
+.flag span{
+    position: absolute;
+    /* color: #000; */
+    bottom: 50%;
+    right : 5%;
+    transform: translateX(-50%);
+}
+
+:global(.react-datepicker-wrapper){
+    width: 100%;
+}

@@ -1,4 +1,24 @@
-.mapContainer{
-    background-color: #393E46;
-    color: #fff;
+.mapContainer {
+  /* position: relative; */
+  background-color: #393e46;
+  color: #fff;
+  height: 100%;
+}
+
+.mapContainer button {
+  position: absolute;
+  left: 50%;
+  background-color: #f05454;
+  color: #fff;
+  cursor: pointer;
+  padding: 1rem;
+  border-radius: 12px;
+  font-size: 1.2rem;
+  border: none;
+  outline: none;
+  box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.5);
+  bottom: 5%;
+  transform: translateX(-50%);
+  z-index: 700;
+  touch-action: auto;
 }

@@ -1,44 +1,52 @@
 {
   "cities": [
     {
-      "id": "1",
+      "city_name": "Castello de la Plana",
+      "country_name": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-07T07:11:58.517Z",
+      "notes": "go to new trip",
+      "position": {
+        "lat": "40.0076315603083",
+        "long": "-0.00274658203125"
+      },
+      "id": 1
+    },
+    {
+      "city_name": "Oliete",
+      "country_name": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-14T07:12:18.000Z",
+      "notes": "ne trip",
+      "position": {
+        "lat": "40.977824533189526",
+        "long": "-0.6784057617187501"
+      },
+      "id": 2
+    },
+    {
+      "city_name": "Tobia",
+      "country_name": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-13T08:47:08.000Z",
+      "notes": "we will go to this trip on that date",
+      "position": {
+        "lat": "42.25291778330197",
+        "long": "-2.889404296875"
+      },
+      "id": 3
+    },
+    {
       "city_name": "Meerut",
       "country_name": "India",
-      "emoji":"⛳",
+      "emoji": "🇮🇳",
+      "date": "2023-10-10T08:48:12.000Z",
+      "notes": "go to meerut",
       "position": {
-        "lat": "28.984644",
-        "long": "77.705956"
-      }
-    },
-    {
-      "id": "2",
-      "city_name": "Mumbai",
-      "country_name": "India",
-      "emoji":"⛳",
-      "position": {
-        "lat": "28.984644",
-        "long": "77.705956"
-      }
-    },
-    {
-      "id": "3",
-      "city_name": "Delhi",
-      "country_name": "India",
-      "emoji":"⛳",
-      "position": {
-        "lat": "28.984644",
-        "long": "77.705956"
-      }
-    },
-    {
-      "id": "4",
-      "city_name": "Banglore",
-      "country_name": "India",
-      "emoji":"⛳",
-      "position": {
-        "lat": "28.984644",
-        "long": "77.705956"
-      }
+        "lat": "28.981864869095848",
+        "long": "77.70921707153322"
+      },
+      "id": 4
     }
   ]
 }
